@@ -1,0 +1,23 @@
+.input{
+         height: 55px;
+         width: 65px;
+         /* background-color: red; */
+         text-align: center;
+         border: none;
+         border:1px solid #ee9ca7 ;
+         font-size: 20px;
+         font-weight: 500;
+         cursor:pointer;
+         caret-color: transparent;
+
+}
+.input:focus{
+         border: 2px solid #ee9ca7;
+         outline: none;
+         color: #ec95a2;
+}
+ .input:hover{
+         /* background-color: #ee9ca7; */
+         border: 2px solid #ee9ca7;
+
+}

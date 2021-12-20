@@ -1,0 +1,7 @@
+.menu{
+
+    background-image: linear-gradient(to bottom,#ee9ca7,#ffdde1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

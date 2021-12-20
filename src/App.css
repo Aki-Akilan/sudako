@@ -1,0 +1,36 @@
+.color{
+         /* background-color: burlywood; */
+         /* margin-top: 2vh; */
+         background-image: linear-gradient(to bottom,#ee9ca7,#ffdde1);
+         height: 100vh;
+         box-shadow: 1px -1px 9px -1px rgba(0,0,0,0.75);
+-webkit-box-shadow: 1px -1px 9px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px -1px 9px -1px rgba(0,0,0,0.75);
+}
+.left{
+         float: left;
+}
+
+.sudako{
+         font-weight: 700;
+         letter-spacing: 10px;
+         color: rgba(0, 0, 0, 0.068);
+}
+#tit{
+         width: 10vh;
+         background-color: #ffdde1;
+}
+.contain{
+         /* background-color: slateblue; */
+         /* height: 70vh; */
+}
+#t1,#t2,#t3,#t4,#t5,#t6{
+         margin-left: 30px;
+}
+.last{
+         height: 30vh;
+         border-radius: 25px;
+         box-shadow: 1px 3px 5px -1px rgba(0, 0, 0, 0.116);
+
+         background-color: #f5ebec;
+}
